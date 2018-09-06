@@ -8,7 +8,7 @@ Year: 2018
 -----Descriptions of the files included-----
 
 
-make_adjacency.py - a script to generate adjacency matrices with Watts-Strogatz properties.
+make_adjacency.py - a script to generate adjacency matrices with Watts-Strogatz properties for use with SIS_epidemic_logscale.m.
 
 SIS_epidemic_logscale.m - epidemic simulation which provides time series for analysis.
 
