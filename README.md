@@ -3,6 +3,13 @@ Code associated with "Thermodynamic efficiency of contagions: A statistical mech
 
 Authors: Nathan Harding, Ramil Nigmatullin, Mikhail Prokopenko
 
-make_adjacency.py - a small script to generate adjacency matrices with Watts-Strogatz properties
+Year: 2018
 
-SIS_epidemic_logscale.m - epidemic simulation which provides time series for analysis
+-----Short descriptions of the files included-----
+
+
+make_adjacency.py - a script to generate adjacency matrices with Watts-Strogatz properties.
+
+SIS_epidemic_logscale.m - epidemic simulation which provides time series for analysis.
+
+SIS_MaxEnt_Examples.nb - Used to solve the MaxEnt problem on a smaller network numerically.
