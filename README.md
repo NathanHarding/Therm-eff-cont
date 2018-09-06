@@ -5,7 +5,7 @@ Authors: Nathan Harding, Ramil Nigmatullin, Mikhail Prokopenko
 
 Year: 2018
 
------Short descriptions of the files included-----
+-----Descriptions of the files included-----
 
 
 make_adjacency.py - a script to generate adjacency matrices with Watts-Strogatz properties.
