@@ -1,6 +1,9 @@
 function SIS_epidemic_logscale( delta,sample_length, runs, input_adj_mat, ofile )
-%SIS_epidemic_logscale
-%   SIS epidemic simulation used to generate time-series data
+% Nathan Harding 2017
+% SIS_epidemic_logscale
+% SIS epidemic simulation used to generate time-series data
+% Supplementary to "Thermodynamic efficiency of contagions: A statistical mechanical analysis of the SIS epidemic model", 
+% N. Harding, R. Nigmatullin, M. Prokopenko, 2018.
 load( input_adj_mat );
 rng('shuffle')
 sz = size(adjacency_matrix);
